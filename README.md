@@ -15,6 +15,7 @@
 * I had to delete stuff from the bootstrap code to try and fit my needs.
 * Bootstrap contains a lot of components and I was not sure which to use or if to create my own grid.
 * Through out my code I would mix and match grid layouts by making rows and columns, and also just using components such as cards and jumbotrons      from bootstrap.
+* Had to add style for colors and also to make sure that the media changes for the mentioned sizes.
 
 ## Final Messages
 * There is really not much I can say about this assignment since i basically just changed the colors and nothing more.
